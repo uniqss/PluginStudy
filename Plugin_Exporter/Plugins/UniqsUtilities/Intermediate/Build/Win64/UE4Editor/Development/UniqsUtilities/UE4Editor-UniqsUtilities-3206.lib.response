@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UniqsUtilities-3206.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\work\ProjectG\Engine\UE425\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\Module.UniqsUtilities.cpp.obj"
+"D:\work\ProjectG\Engine\UE425\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UE4Editor-UniqsUtilities-3206.lib"
+/INCLUDE:IMPLEMENT_MODULE_UniqsUtilities

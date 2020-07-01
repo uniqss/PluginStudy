@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Plugin_Exporter",
+			"Path": "E:\\work\\PluginStudy\\Plugin_Exporter\\Source\\Plugin_Exporter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Plugin_ExporterEditor",
+			"Path": "E:\\work\\PluginStudy\\Plugin_Exporter\\Source\\Plugin_ExporterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

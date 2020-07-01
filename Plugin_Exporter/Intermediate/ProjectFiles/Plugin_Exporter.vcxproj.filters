@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Plugin_Exporter.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{45713B14-57C2-411C-908E-F0ED4E655509}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Plugin_Exporter.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Plugin_ExporterEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D4B7A768-4F2F-4DDC-BB76-9D021152B134}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Plugin_Exporter">
+      <UniqueIdentifier>{D9F89DE8-92B7-4379-B6FD-4B85441030E5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Plugin_Exporter\Plugin_Exporter.Build.cs">
+      <Filter>Source\Plugin_Exporter</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Plugin_Exporter\Plugin_Exporter.cpp">
+      <Filter>Source\Plugin_Exporter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Plugin_Exporter\Plugin_Exporter.h">
+      <Filter>Source\Plugin_Exporter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Plugin_Exporter\Plugin_ExporterGameModeBase.cpp">
+      <Filter>Source\Plugin_Exporter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Plugin_Exporter\Plugin_ExporterGameModeBase.h">
+      <Filter>Source\Plugin_Exporter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Plugin_Maker",
+			"Path": "E:\\work\\PluginStudy\\Plugin_Maker\\Source\\Plugin_Maker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Plugin_MakerEditor",
+			"Path": "E:\\work\\PluginStudy\\Plugin_Maker\\Source\\Plugin_MakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

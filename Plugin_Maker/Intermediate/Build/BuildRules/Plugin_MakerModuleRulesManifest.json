@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"E:\\work\\PluginStudy\\Plugin_Maker\\Source\\Plugin_Maker\\Plugin_Maker.Build.cs",
+		"E:\\work\\PluginStudy\\Plugin_Maker\\Source\\UniqsUtilities\\UniqsUtilities.Build.cs",
+		"E:\\work\\PluginStudy\\Plugin_Maker\\Source\\Plugin_Maker.Target.cs",
+		"E:\\work\\PluginStudy\\Plugin_Maker\\Source\\Plugin_MakerEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.1"
+}

@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UniqsUtilities.cpp.obj": [
+			"Test.cpp.obj",
+			"UniqsUtilities.cpp.obj"
+		]
+	}
+}

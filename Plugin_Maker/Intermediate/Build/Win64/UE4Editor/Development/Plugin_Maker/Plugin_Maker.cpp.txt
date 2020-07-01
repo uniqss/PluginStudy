@@ -1,0 +1,2 @@
+E:\work\PluginStudy\Plugin_Maker\Intermediate\Build\Win64\UE4Editor\Development\Plugin_Maker\Definitions.Plugin_Maker.h
+E:\work\PluginStudy\Plugin_Maker\Source\Plugin_Maker\Plugin_Maker.h
