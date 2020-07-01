@@ -1,2 +1,2 @@
-E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\Definitions.UniqsUtilities.h
-E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Source\UniqsUtilities\Public\UniqsUtilities.h
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\Definitions.UniqsUtilities.h
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Source\UniqsUtilities\UniqsUtilities.h

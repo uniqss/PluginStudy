@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Plugin_Exporter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{45713B14-57C2-411C-908E-F0ED4E655509}</UniqueIdentifier>
+      <UniqueIdentifier>{87E906A6-3499-4DE7-BE24-AA4381ABD3C4}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Plugin_Exporter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{D4B7A768-4F2F-4DDC-BB76-9D021152B134}</UniqueIdentifier>
+      <UniqueIdentifier>{4C5507EE-D03C-45EC-8A7F-4C22C3499F38}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,56 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{ADFE5B38-3021-4CF6-8048-7ED8969E28E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UniqsUtilities">
+      <UniqueIdentifier>{C98C1E05-6FE5-449F-86EC-5F91905C5F4E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UniqsUtilities\Source">
+      <UniqueIdentifier>{0F769ADF-F85B-482A-B5D0-40BBB1EC097B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UniqsUtilities\Source\UniqsUtilities">
+      <UniqueIdentifier>{5EC55020-E10F-45B9-91A9-82CD207D86F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\UniqsUtilities.Build.cs">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\UniqsUtilities.cpp">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\UniqsUtilities.h">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UniqsUtilities\Source\UniqsUtilities\Private">
+      <UniqueIdentifier>{5F36C4E5-C5AF-414A-9279-590253BBBD88}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\Private\Test.cpp">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\Private\UniqsBlueprintUtilities.cpp">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\UniqsUtilities\Source\UniqsUtilities\Public">
+      <UniqueIdentifier>{318E7FAB-6E00-4E08-BD11-D9172967C56C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\Public\Test.h">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UniqsUtilities\Source\UniqsUtilities\Public\UniqsBlueprintUtilities.h">
+      <Filter>Plugins\UniqsUtilities\Source\UniqsUtilities\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\UniqsUtilities\UniqsUtilities.uplugin">
+      <Filter>Plugins\UniqsUtilities</Filter>
+    </None>
+    <Filter Include="Plugins\UniqsUtilities\Resources">
+      <UniqueIdentifier>{88CF37EE-30FB-4654-A535-92C0B3AB694F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UniqsUtilities\Resources\Icon128.png">
+      <Filter>Plugins\UniqsUtilities\Resources</Filter>
+    </None>
     <Filter Include="Source\Plugin_Exporter">
-      <UniqueIdentifier>{D9F89DE8-92B7-4379-B6FD-4B85441030E5}</UniqueIdentifier>
+      <UniqueIdentifier>{74B4C39D-4B85-4075-8C35-DB4AF5B21FC3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Plugin_Exporter\Plugin_Exporter.Build.cs">
       <Filter>Source\Plugin_Exporter</Filter>

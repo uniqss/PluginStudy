@@ -4,7 +4,7 @@
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\HeadlessChaos\HeadlessChaos.Target.cs" />
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\HeadlessChaos\HeadlessChaos.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{6C427667-3288-4236-940F-2E5A22B5B929}</UniqueIdentifier>
+      <UniqueIdentifier>{4218FEBF-7B51-4370-ABD0-204FD00980B7}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\HeadlessChaos\Private\HeadlessChaosApp.cpp">
       <Filter>Private</Filter>
@@ -115,7 +115,7 @@
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{8568ADFF-8F4D-4B9D-91A9-ACC6CDA43412}</UniqueIdentifier>
+      <UniqueIdentifier>{D236D62B-4D34-4706-AE64-6607A0722230}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\HeadlessChaos\Public\HeadlessChaos.h">
       <Filter>Public</Filter>

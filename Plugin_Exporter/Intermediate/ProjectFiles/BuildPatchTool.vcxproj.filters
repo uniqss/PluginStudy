@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{7073DEBC-8D18-494C-B6DB-0F5DB6CB9AF2}</UniqueIdentifier>
+      <UniqueIdentifier>{D731150B-B262-4932-B354-7EDDBBFCE985}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Programs\BuildPatchTool\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
@@ -11,7 +11,7 @@
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Automation.cs" />
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\BuildPatchTool.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{5558A0F3-33DC-4F51-8500-F9A5DDCEA4EB}</UniqueIdentifier>
+      <UniqueIdentifier>{0695336B-5812-4A42-95EC-7B43546323A1}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\Private\BuildPatchTool.cpp">
       <Filter>Private</Filter>
@@ -20,7 +20,7 @@
       <Filter>Private</Filter>
     </ClCompile>
     <Filter Include="Private\ToolModes">
-      <UniqueIdentifier>{ACEE72C7-E8D2-45F7-A9DC-79D89A5DFF76}</UniqueIdentifier>
+      <UniqueIdentifier>{B145B983-B731-430B-985B-77281033ED85}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\Private\ToolModes\AutomationMode.cpp">
       <Filter>Private\ToolModes</Filter>
@@ -50,19 +50,19 @@
       <Filter>Private\ToolModes</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{C89AFF22-3570-4E1F-B329-80A9F7B3A676}</UniqueIdentifier>
+      <UniqueIdentifier>{FFFD60A6-C105-421C-9220-AA21DE4B95C8}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\Public\BuildPatchTool.h">
       <Filter>Public</Filter>
     </ClInclude>
     <Filter Include="Public\Interfaces">
-      <UniqueIdentifier>{B7AE1F06-C2A7-4BD8-B24E-84CD589EA2D2}</UniqueIdentifier>
+      <UniqueIdentifier>{92117071-ECFE-4331-94EA-B3371A26747E}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\Public\Interfaces\ToolMode.h">
       <Filter>Public\Interfaces</Filter>
     </ClInclude>
     <Filter Include="Public\ToolModes">
-      <UniqueIdentifier>{D34C586A-4B8D-48D6-A55F-2FCBFB89928F}</UniqueIdentifier>
+      <UniqueIdentifier>{960BB075-A820-4EF2-BE91-C378EF57595C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\BuildPatchTool\Public\ToolModes\AutomationMode.h">
       <Filter>Public\ToolModes</Filter>

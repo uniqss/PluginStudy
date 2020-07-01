@@ -1,0 +1,48 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (E:\work\PluginStudy).
+  Creating makefile for Plugin_ExporterEditor (no existing makefile)
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Source\UniqsUtilities\UniqsUtilities.Build.cs : warning : Referenced directory 'D:\work\ProjectG\Engine\UE425\Engine\Source\UniqsUtilities\Public' does not exist.
+  Creating makefile for UnrealHeaderTool (no existing makefile)
+  Parsing headers for Plugin_ExporterEditor
+    Running UnrealHeaderTool "E:\work\PluginStudy\Plugin_Exporter\Plugin_Exporter.uproject" "E:\work\PluginStudy\Plugin_Exporter\Intermediate\Build\Win64\Plugin_ExporterEditor\Development\Plugin_ExporterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\work\ProjectG\Engine\UE425\Engine\Programs\UnrealBuildTool\Log_UHT.txt"
+  Reflection code generated for Plugin_ExporterEditor in 8.4625838 seconds
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building Plugin_ExporterEditor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.26.28806 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Distributing 14 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  Failed to connect to Coordinator:
+      All builds will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  ** For Plugin_ExporterEditor-Win64-Development **
+  Plugin_Exporter.init.gen.cpp (0:17.85 at +0:00)
+  Plugin_ExporterGameModeBase.gen.cpp (0:18.01 at +0:00)
+  Plugin_Exporter.cpp (0:18.09 at +0:00)
+  Plugin_ExporterGameModeBase.cpp (0:17.86 at +0:00)
+  UniqsUtilities.cpp (0:11.76 at +0:18)
+  UniqsBlueprintUtilities.cpp (0:25.35 at +0:18)
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Source\UniqsUtilities\Private\UniqsBlueprintUtilities.cpp(16): warning C4996: 'UEngine::GetWorldFromContextObject': GetWorldFromContextObject(Object) and GetWorldFromContextObject(Object, boolean) are replaced by GetWorldFromContextObject(Object, Enum) or GetWorldFromContextObjectChecked(Object) Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Source\UniqsUtilities\Private\UniqsBlueprintUtilities.cpp(37): warning C4996: 'UEngine::GetWorldFromContextObject': GetWorldFromContextObject(Object) and GetWorldFromContextObject(Object, boolean) are replaced by GetWorldFromContextObject(Object, Enum) or GetWorldFromContextObjectChecked(Object) Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Source\UniqsUtilities\Private\UniqsBlueprintUtilities.cpp(75): warning C4996: 'UEngine::GetWorldFromContextObject': GetWorldFromContextObject(Object) and GetWorldFromContextObject(Object, boolean) are replaced by GetWorldFromContextObject(Object, Enum) or GetWorldFromContextObjectChecked(Object) Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  UniqsBlueprintUtilities.gen.cpp (0:25.32 at +0:18)
+  Test.cpp (0:31.57 at +0:18)
+  UniqsUtilities.init.gen.cpp (0:19.82 at +0:29)
+  UE4Editor-Plugin_Exporter.lib (0:08.10 at +0:43)
+     Creating library E:\work\PluginStudy\Plugin_Exporter\Intermediate\Build\Win64\UE4Editor\Development\Plugin_Exporter\UE4Editor-Plugin_Exporter.lib and object E:\work\PluginStudy\Plugin_Exporter\Intermediate\Build\Win64\UE4Editor\Development\Plugin_Exporter\UE4Editor-Plugin_Exporter.exp
+  UE4Editor-UniqsUtilities.lib (0:03.06 at +0:49)
+     Creating library E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UE4Editor-UniqsUtilities.lib and object E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UE4Editor-UniqsUtilities.exp
+  UE4Editor-Plugin_Exporter.dll (0:11.03 at +0:43)
+     Creating library E:\work\PluginStudy\Plugin_Exporter\Intermediate\Build\Win64\UE4Editor\Development\Plugin_Exporter\UE4Editor-Plugin_Exporter.suppressed.lib and object E:\work\PluginStudy\Plugin_Exporter\Intermediate\Build\Win64\UE4Editor\Development\Plugin_Exporter\UE4Editor-Plugin_Exporter.suppressed.exp
+  UE4Editor-UniqsUtilities.dll (0:07.23 at +0:49)
+     Creating library E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UE4Editor-UniqsUtilities.suppressed.lib and object E:\work\PluginStudy\Plugin_Exporter\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UE4Editor-UniqsUtilities.suppressed.exp
+  Plugin_ExporterEditor.target (0:00.46 at +0:57)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - Failed to connect to Coordinator
+  
+  Total time in XGE executor: 58.23 seconds
+  Total execution time: 75.98 seconds

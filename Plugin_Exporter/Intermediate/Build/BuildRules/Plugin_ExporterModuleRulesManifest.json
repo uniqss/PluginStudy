@@ -1,6 +1,7 @@
 {
 	"SourceFiles": [
 		"E:\\work\\PluginStudy\\Plugin_Exporter\\Source\\Plugin_Exporter\\Plugin_Exporter.Build.cs",
+		"E:\\work\\PluginStudy\\Plugin_Exporter\\Plugins\\UniqsUtilities\\Source\\UniqsUtilities\\UniqsUtilities.Build.cs",
 		"E:\\work\\PluginStudy\\Plugin_Exporter\\Source\\Plugin_Exporter.Target.cs",
 		"E:\\work\\PluginStudy\\Plugin_Exporter\\Source\\Plugin_ExporterEditor.Target.cs"
 	],

@@ -91,7 +91,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1728D522-F783-4A9E-A214-F1DB990B0B09}</ProjectGuid>
+    <ProjectGuid>{8E769EC4-774D-4AE0-A96B-66C6375558B3}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>UnrealInsights</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>

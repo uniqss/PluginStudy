@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\CrashReportClient.Target.cs" />
     <Filter Include="Config">
-      <UniqueIdentifier>{0C5DDA0A-7002-4D27-92A1-197CDB95CD4F}</UniqueIdentifier>
+      <UniqueIdentifier>{EDD78040-0AA9-4BEF-97D9-D8C5564D6793}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Programs\CrashReportClient\Config\DefaultEngine.ini">
       <Filter>Config</Filter>
@@ -11,7 +11,7 @@
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\CrashReportClient.Build.cs" />
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\CrashReportClientEditor.Build.cs" />
     <Filter Include="Private">
-      <UniqueIdentifier>{98DA3730-4C67-47C2-947F-888C37DC863B}</UniqueIdentifier>
+      <UniqueIdentifier>{AAB3CAEB-8207-40AC-9624-3C9B6A287E88}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Private\CrashReportClient.cpp">
       <Filter>Private</Filter>
@@ -50,34 +50,34 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Private\Linux">
-      <UniqueIdentifier>{D1CD0C05-DA15-4FEA-B2CA-1EBC6D050D6B}</UniqueIdentifier>
+      <UniqueIdentifier>{148344CC-6ADA-4DDE-BE30-8BDF680A3B6B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Private\Linux\CrashReportClientMainLinux.cpp">
       <Filter>Private\Linux</Filter>
     </ClCompile>
     <Filter Include="Private\Mac">
-      <UniqueIdentifier>{F27F19DB-54FC-4BA3-ACCE-723FC58EE747}</UniqueIdentifier>
+      <UniqueIdentifier>{E5D2AC3C-9393-4B20-A215-F30A6D6119F6}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Private\Mac\CrashReportClientMainMac.cpp">
       <Filter>Private\Mac</Filter>
     </ClCompile>
     <Filter Include="Private\Windows">
-      <UniqueIdentifier>{F859C61D-83B5-4083-B932-51B31355874E}</UniqueIdentifier>
+      <UniqueIdentifier>{5B35CC5A-5F8A-4461-A116-0B1DFB9DEC03}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Private\Windows\CrashReportClientMainWindows.cpp">
       <Filter>Private\Windows</Filter>
     </ClCompile>
     <Filter Include="Public">
-      <UniqueIdentifier>{2141573C-7824-4AC2-BB3B-7318BDA55537}</UniqueIdentifier>
+      <UniqueIdentifier>{D9C8BFE6-21C3-4900-B1AA-FDD9F8E7D4D1}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Public\CrashReportClientApp.h">
       <Filter>Public</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{1D54DFE4-ADC7-4E34-AD75-954CBCF4C2CD}</UniqueIdentifier>
+      <UniqueIdentifier>{4A13A34B-3978-4F50-8A6F-37587D0E0272}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Mac">
-      <UniqueIdentifier>{A0CF0948-9EF1-445F-91F8-7F4EA203F687}</UniqueIdentifier>
+      <UniqueIdentifier>{A7F60007-B26F-4FF7-A112-A8CECB40F79E}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\CrashReportClient\Resources\Mac\Info.plist">
       <Filter>Resources\Mac</Filter>

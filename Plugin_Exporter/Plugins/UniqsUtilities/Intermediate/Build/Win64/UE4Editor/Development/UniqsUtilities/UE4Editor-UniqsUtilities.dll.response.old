@@ -34,7 +34,7 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "D:\work\ProjectG\Engine\UE425\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\UniqsUtilities.cpp.obj"
+"E:\work\PluginStudy\Plugin_Maker\Plugins\UniqsUtilities\Intermediate\Build\Win64\UE4Editor\Development\UniqsUtilities\Module.UniqsUtilities.cpp.obj"
 "D:\work\ProjectG\Engine\UE425\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
 "delayimp.lib"
 "wininet.lib"

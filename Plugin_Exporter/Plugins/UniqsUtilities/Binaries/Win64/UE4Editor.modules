@@ -1,7 +1,7 @@
 {
-	"BuildId": "3ec9285d-68ca-413f-a3c6-ad36cc69f736",
+	"BuildId": "7fe74bf6-9cc0-435c-ac77-a5a122cc1ace",
 	"Modules": 
 	{
-		"UniqsUtilities": "UE4Editor-UniqsUtilities-3206.dll"
+		"UniqsUtilities": "UE4Editor-UniqsUtilities.dll"
 	}
 }

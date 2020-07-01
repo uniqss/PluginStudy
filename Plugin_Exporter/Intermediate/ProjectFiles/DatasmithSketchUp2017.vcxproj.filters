@@ -8,7 +8,7 @@
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUp2020.Build.cs" />
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\DatasmithSketchUpExporter.def" />
     <Filter Include="Installer">
-      <UniqueIdentifier>{256A1E17-B4FD-4015-9C2C-CAF915003B79}</UniqueIdentifier>
+      <UniqueIdentifier>{55B85320-D100-4984-856A-D027814E9358}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\CustomActions.wxs">
       <Filter>Installer</Filter>
@@ -38,13 +38,13 @@
       <Filter>Installer</Filter>
     </None>
     <Filter Include="Installer\Localization">
-      <UniqueIdentifier>{E2A51F1F-32DC-484D-BC27-7C2104E7FD57}</UniqueIdentifier>
+      <UniqueIdentifier>{A3D501DE-E874-48DA-AE99-30F98DDE274A}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Localization\en-us.wxl">
       <Filter>Installer\Localization</Filter>
     </None>
     <Filter Include="Installer\Resources">
-      <UniqueIdentifier>{4E551A59-2547-4A09-A769-972D27FAD52C}</UniqueIdentifier>
+      <UniqueIdentifier>{A5467848-9B9F-43E9-8F98-1AF17FE411EC}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Banner.bmp">
       <Filter>Installer\Resources</Filter>
@@ -74,13 +74,13 @@
       <Filter>Installer\Resources</Filter>
     </None>
     <Filter Include="Installer\Resources\Images">
-      <UniqueIdentifier>{C1023225-59D8-477B-9204-7151263CA6BB}</UniqueIdentifier>
+      <UniqueIdentifier>{63FE7F11-116F-471F-84AF-51B87C567365}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
       <Filter>Installer\Resources\Images</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\Background">
-      <UniqueIdentifier>{386CCBE5-2F78-48B1-8237-67BF0855EF8B}</UniqueIdentifier>
+      <UniqueIdentifier>{C900A214-9B8A-481F-8CEE-FB78C8AEE2E5}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\Background\28190.bmp">
       <Filter>Installer\Resources\Images\Background</Filter>
@@ -98,7 +98,7 @@
       <Filter>Installer\Resources\Images\Background</Filter>
     </None>
     <Filter Include="Installer\Resources\Images\General">
-      <UniqueIdentifier>{90D8323F-49E3-427E-B84D-D220B75B45F6}</UniqueIdentifier>
+      <UniqueIdentifier>{1C711B89-C055-438B-BE79-7BC8715ED3D8}</UniqueIdentifier>
     </Filter>
     <None Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Installer\Resources\Images\General\banner.bmp">
       <Filter>Installer\Resources\Images\General</Filter>
@@ -107,7 +107,7 @@
       <Filter>Installer\Resources\Images\General</Filter>
     </None>
     <Filter Include="Private">
-      <UniqueIdentifier>{0D64190D-06F6-4847-9389-0A1B9B8A118E}</UniqueIdentifier>
+      <UniqueIdentifier>{0F143F1E-0476-4D06-91A9-B637440F9AAD}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Private\DatasmithSketchUpAFXDialogs.cpp">
       <Filter>Private</Filter>
@@ -191,10 +191,10 @@
       <Filter>Private</Filter>
     </ClInclude>
     <Filter Include="Resources">
-      <UniqueIdentifier>{372EB4F7-8553-486D-95B4-0563C9AA77F9}</UniqueIdentifier>
+      <UniqueIdentifier>{96A9CE1B-D2DA-4B1B-B606-F395967CBDB4}</UniqueIdentifier>
     </Filter>
     <Filter Include="Resources\Windows">
-      <UniqueIdentifier>{AEFFCAC7-CCB7-4D0B-B137-D8A63A5C229F}</UniqueIdentifier>
+      <UniqueIdentifier>{3E5742B5-2DA5-47A9-8BD6-F064E13D15E7}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="D:\work\ProjectG\Engine\UE425\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpExporter\Resources\Windows\resource.h">
       <Filter>Resources\Windows</Filter>

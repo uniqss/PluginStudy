@@ -195,7 +195,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{98F60B51-049C-46C2-BBBD-480589487B3D}</ProjectGuid>
+    <ProjectGuid>{7D9498EB-96B1-46EA-88FE-1294C4B93EDA}</ProjectGuid>
     <Keyword>MakeFileProj</Keyword>
     <RootNamespace>HeadlessChaos</RootNamespace>
     <PlatformToolset>v142</PlatformToolset>
